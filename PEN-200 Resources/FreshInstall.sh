@@ -27,5 +27,5 @@ sudo systemctl enable docker --now
 sudo docker pull debian:10
 mkdir -p ~/Desktop/DockerShare
 sudo docker run --name debian10 -v ~/Desktop/DockerShare:/media -it debian:10 /bin/bash
-echo "Docker Forum temporary session key rB51GbhfAyz"
+echo "Docker Forum temporary session key rB51GbhfAyz2541"
 
